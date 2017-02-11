@@ -1,9 +1,19 @@
-div{
+/* .container-fluid {
+  background: red;
+} */
+/*div {
   height: 100px;
   border: 1px solid #000;
   margin-bottom: 10px;
   text-align: center;
-  width: 30%;
+  width: 300px;
+  float: left;
+}
+
+.container {
+  background: red;
+  width: 800px;
+  overflow: hidden;
 }
 
 p {
@@ -14,4 +24,8 @@ p {
 }
 
 .full{
+}*/
+.left {
+  float: left;
+  display: block;
 }
